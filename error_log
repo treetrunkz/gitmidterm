@@ -1,0 +1,3 @@
+[22-Feb-2021 04:11:48 UTC] HTTP 405 (HEAD /)
+[22-Feb-2021 04:11:48 UTC] [midtermprod/vendor/bcosca/fatfree-core/base.php:1811] Base->error()
+[22-Feb-2021 04:11:48 UTC] [midtermprod/index.php:49] Base->run()

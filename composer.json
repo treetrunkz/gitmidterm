@@ -1,0 +1,12 @@
+{
+  "name": "midtermprod",
+  "authors": [
+    {
+      "name": "Eleanor Carl",
+      "email": "ecarl@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
